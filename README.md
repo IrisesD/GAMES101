@@ -7,10 +7,15 @@ The assignments and course project of GAMES101
 
 ### Assignment1
 
-![Assignment1](src/Assignment1.png)
+<div align="left">
+	<img src="src/Assignment1.png" width="50%">
+</div>
 
 
 
 ### Assignment2
 
-![Assignment2](src/Assignment2.png)
+<div align="left">
+	<img src="src/Assignment2.png" width="50%">
+</div>
+
